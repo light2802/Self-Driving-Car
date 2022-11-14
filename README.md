@@ -55,7 +55,7 @@ source activate evn-gpu
 ```
 
 My computer setting is as follows:
-* GeForce GTX 980M, Intel Core i7@2.7GHzx8, 32G memory, Ubuntu 16.04
+* GeForce GTX 1040, Intel Core i5@2.7GHzx8, 8G memory, Manjaro 22.0.0
 
 #### 1.4 How to run the code with pre-coumputed model
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by following two steps:
